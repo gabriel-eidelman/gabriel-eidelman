@@ -6,9 +6,7 @@
 
 Dayta is a cross-platform productivity and journaling app built with React Native and Firebase that helps users track activities, visualize productivity data, and receive personalized recommendations.
 
-[App Store Link (Coming Soon)] | [GitHub Repository](link-to-repo)
-
-![Dayta Demo](link-to-gif)
+[GitHub Repository](https://github.com/gabriel-eidelman/Dayta.git)
 
 ## 🛠️ Tech Stack
 
@@ -23,6 +21,5 @@ Dayta is a cross-platform productivity and journaling app built with React Nativ
 
 ## 📫 Connect With Me
 
-- Personal Website (Coming Soon)
 - [LinkedIn] https://www.linkedin.com/in/gabriel-eidelman-b05429278/
 - Email: eidelman@stanford.edu
