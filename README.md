@@ -1,6 +1,8 @@
 # Gabriel Eidelman
 
-👋 Hi, I'm Gabriel! I'm a Stanford University Computer Science student and mobile app developer specializing in React Native.
+👋 Hi, I'm Gabriel! I'm a Computer Science student at Stanford University and an experienced full stack developer. I'm passionate about building thoughtful, user-focused tools — especially ones that blend data, design, and real-world behavior. Always open to learning something new or collaborating on cool ideas! 
+
+In my free time I love to play chess - I'm a Fide Master ranked top 10 in the U.S. for my age, and I took a gap year to play and travel through Europe after graduating high school. 
 
 ## 🚀 Featured Project: Dayta
 
