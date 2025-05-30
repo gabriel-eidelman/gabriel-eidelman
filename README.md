@@ -12,10 +12,10 @@ Dayta is a cross-platform productivity and journaling app built with React Nativ
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React Native, TypeScript, Expo
+- **Frontend**: React Native, React, Swift
 - **State Management**: Context API, MMKV Storage
-- **Backend**: Firebase (Auth, Firestore)
-- **Tools**: Git, VS Code, Expo Dev Tools
+- **Backend**: Python, FastAPI, Firebase (Auth, Firestore)
+- **Tools**: Git, VS Code
 
 ## 📚 Education
 
